@@ -23,5 +23,3 @@ const makeup = images
   .join("");
 
 galleryEl.insertAdjacentHTML("beforeend", makeup);
-
-// 5 - сделать оформление в css
