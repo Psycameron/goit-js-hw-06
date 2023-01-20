@@ -1,7 +1,3 @@
-// 1 - сделать переменные
-// 2 - сделать событие на Инпут
-// 3 - сделать функцию изменения размера шрифта
-
 const input = document.querySelector("#font-size-control");
 const span = document.querySelector("#text");
 
